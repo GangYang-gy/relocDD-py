@@ -56,13 +56,13 @@
 
 <h4> <u> References </u> </h4>
 
-<h5> <u> For this Software in Particular: </u> </h5>
+<h5> <u> For this Software in Particular: </u> </h5> 
 
 > K.M. Biegel, & Dettmer, J. (2024). relocDD-py (v1.0). Zenodo. https://doi.org/10.5281/zenodo.10607406.
 
 >![image](https://github.com/katie-biegel/relocDD-py/assets/32553479/ebf91cfe-c818-4e93-a6a9-aea2596a4706)
 
-<h5> <u> For the Event-Pair DD Method: </u> </h5>
+<h5> <u> For the Event-Pair DD Method: </u> </h5>  
 
 > Waldhauser, Felix, 2001, hypoDD -- A program to compute double-difference hypocenter locations, U.S. Geological Survey Open-File Report 01-113.
 
